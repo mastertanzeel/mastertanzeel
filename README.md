@@ -81,7 +81,7 @@
 ### About 📌
 
 ### ✔  **Domain :** Full-Stack Web Development 💻
-### ✔  **Skills :** Javascript, ReactJs, Vue.js, MongoDB, Mysql, Node.js Python
+### ✔  **Skills :** Javascript, ReactJs, MongoDB, Mysql, Node.js, Python
 ### ✔  **Hobbies :** Travelling 🚲, Music 🎧, Reading Science Journals 📕
 <hr>
 
