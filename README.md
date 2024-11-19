@@ -82,7 +82,7 @@
 
 ### ✔  **Domain :** Full-Stack Web Development 💻
 ### ✔  **Skills :** Javascript, ReactJs, MongoDB, Mysql, Node.js, Python
-### ✔  **Hobbies :** Travelling 🚲, Music 🎧, Reading Science Journals 📕
+### ✔  **Hobbies :** Travelling 🚲, Hiking 🏔️, Reading Science Journals 📕
 <hr>
 
 ```
