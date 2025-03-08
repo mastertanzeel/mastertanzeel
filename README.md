@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Tanzeel Ur Rehman 🙋‍♂️</h1>
-<h3 align="center">✨ Transforming challenges into scalable solutions | MERN Stack Specialist | Dr Web </h3>
+<h3 align="center">🚀 Building Scalable & Innovative Web and Mobile Solutions | MERN Stack and Cloud Computing | Dr. Web 🌐 </h3>
 
 <hr>
 
