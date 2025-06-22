@@ -80,7 +80,7 @@
 
 ### About 📌
 
-### ✔  **Domain :** Full-Stack Web Development 💻
+### ✔  **Domain :** Full-Stack Web and Mobile Applications Development 💻 📱
 ### ✔  **Skills :** Javascript, ReactJs, MongoDB, Mysql, Node.js, Python
 ### ✔  **Hobbies :** Travelling 🚲, Hiking 🏔️, Reading Science Journals 📕
 <hr>
